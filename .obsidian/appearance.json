@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#4ccd91",
+  "cssTheme": "Atom",
+  "baseFontSize": 14,
+  "translucency": false,
+  "textFontFamily": "Candara"
 }

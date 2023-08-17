@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Notes/1.1 Classroom Data.md",
+                "file": "1 Notes/c) Estadística/3.1 Notas de clase.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f5b629943ed39f18",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Notes/1.1 Classroom Data.md",
+                "file": "1 Notes/c) Estadística/3.1 Notas de clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Notes/1.1 Classroom Data.md",
+                "file": "1 Notes/c) Estadística/3.1 Notas de clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Notes/1.1 Classroom Data.md"
+                "file": "1 Notes/c) Estadística/3.1 Notas de clase.md"
               }
             }
+          },
+          {
+            "id": "0364ef440fabc951",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,15 +150,29 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "a27406c63d83140e",
   "lastOpenFiles": [
-    "1 Notes/1.2 Types of proof.md",
-    "1 Notes/1.1 Classroom Data.md",
-    "README.md",
+    "1 Notes/b) Eco Diff/2.1 Campo Direccional.md",
+    "1 Notes/b) Eco Diff/2.2 Autómatas.md",
+    "1 Notes/c) Estadística/3.1 Notas de clase.md",
+    "1 Notes/c) Estadística",
+    "Img/Pasted image 20230817144643.png",
+    "Img/Pasted image 20230817143929.png",
+    "Img/Pasted image 20230817142428.png",
+    "Img/Pasted image 20230817104253.png",
+    "Img/Pasted image 20230817102927.png",
+    "1 Notes/a) Teo Com/1.1 Classroom Data.md",
+    "1 Notes/b) Eco Diff",
+    "1 Notes/a) Teo Com/1.2 Types of proof.md",
+    "1 Notes/a) Teo Com",
+    "1 Notes/a) Teo Com/1.3 Automatas.md",
+    "Img/README.md",
     "Img",
     "1 Notes"
   ]
