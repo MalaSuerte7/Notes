@@ -1,0 +1,12 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Red": "#FF5582A6",
+    "Color": "#BBFABBA6"
+  },
+  "highlighterOrder": [
+    "Red",
+    "Color"
+  ]
+}
