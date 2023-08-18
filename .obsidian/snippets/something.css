@@ -1,0 +1,17 @@
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[alt*="left"] {
+    display: block;
+    margin-left: 10;
+    margin-right: auto;
+}
+
+img[alt*="right"] {
+    display: block;
+    margin-left: auto;
+    margin-right: 10;
+}

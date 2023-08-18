@@ -3,5 +3,8 @@
   "cssTheme": "Atom",
   "baseFontSize": 14,
   "translucency": false,
-  "textFontFamily": "Candara"
+  "textFontFamily": "Candara",
+  "enabledCssSnippets": [
+    "something"
+  ]
 }
